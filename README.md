@@ -1,6 +1,6 @@
 # dbuppy
 dbuppy is a tool written in python that automates deployment of changes to PostgreSQL databases.
-It tracks list of SQL scripts that have been executed and runs those that are needed to bring your database up tp date.
+It tracks list of SQL scripts that have been executed and runs those that are needed to bring your database up to date.
 
 ## **How it works**
 
